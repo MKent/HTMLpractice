@@ -1,4 +1,12 @@
 li {
     font-style: italic;
     color: blue;
+    font-family: 'Comic Sans MS'
+}
+h1 {
+    font-family: 'Comic Sans MS';
+}
+#image {
+    background-image: url(AlbumCover.jpeg);
+    background-repeat: no-repeat;
 }
