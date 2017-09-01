@@ -1,0 +1,10 @@
+h1 {
+    color:darkred;
+    font-style: italic;
+    text-decoration:underline
+}
+
+footer {
+    color:darkred;
+    border: 3px darkred dashed;
+}
